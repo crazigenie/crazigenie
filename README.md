@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crazigenie
+- 👋 Hi, I’m Neige
 - 👀 I’m interested in Full Stack Engineering, Data Science
 - 🌱 I’m currently learning HTML, CSS
 - 😄 Pronouns: she/her
